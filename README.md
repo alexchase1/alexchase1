@@ -2,35 +2,10 @@
                                       
 ### Hey there 👋
 
-#### My name is Alex, and I’m an Engineering Physics and Computing candidate at Queen's University. I’m currently going into my 4th year, but on internship at Blackline Safety in Calgary, Canada. 
-- 🍁 I’m from 🇨🇦
-- 🔭 I’m currently working on a battery life prediciton algorithm for our devices at Blackline
-- 🌱 I’m working on learning HTML, CSS and Javascript
-- 💬 I speak Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My name is Alex, and I’m an [Engineering Physics and Computing](https://www.queensu.ca/physics/undergrad-studies/engineering-physics) candidate at Queen's University. I’m currently going into my 4th year, but right now, I'm on internship working as a Data Scientist at [Blackline Safety](https://www.blacklinesafety.com) in Calgary, Canada. 
+- 🍁 I’m from 🇨🇦 
+- 🔭 I’m currently building a battery life prediciton algorithm for our devices at [Blackline](https://www.blacklinesafety.com)
+- 💬 I speak en-CA, 🐍, SQL, C, MATLAB, Java
+- 🌱 I’m working on learning HTML, CSS and Javascript 
+- 📫 You can find me on <a href="https://www.linkedin.com/in/alexanderchase1/"><img src="https://user-images.githubusercontent.com/86262689/132900051-5454fe96-d053-472a-8ded-1fa73600024d.png" width="18px"></a>
 - I like 🎹, ☕️,  🐍, 🌌, 🏒, ⛷️, 🏃🏻‍♂️, ⛳
-
-I🌯, 🏓, 💻, 🐍, 📊, 🏀, ☕️, 🍺, 🍷
-You can find me on [![LinkedIn][3.2]][3].![linkedin png]()
-
-
-[3.2]: https://user-images.githubusercontent.com/86262689/132900051-5454fe96-d053-472a-8ded-1fa73600024d.png
-
-[3]: https://www.linkedin.com/in/alexanderchase1/
-
-<!--
-**alexchase1/alexchase1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
