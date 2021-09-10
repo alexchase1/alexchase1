@@ -1,3 +1,5 @@
+<a href="https://alex-chase.com"><img src="https://user-images.githubusercontent.com/86262689/132897334-3653ee92-bc00-49b0-a24c-8c9cd84c8dea.png" align="right" width="260px"></a>
+                                      
 ### Hi there 👋
 
 <!--
