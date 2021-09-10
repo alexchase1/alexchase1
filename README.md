@@ -1,6 +1,24 @@
 <a href="https://alex-chase.com"><img src="https://user-images.githubusercontent.com/86262689/132897334-3653ee92-bc00-49b0-a24c-8c9cd84c8dea.png" align="right" width="260px"></a>
                                       
-### Hi there 👋
+### Hey there 👋
+
+#### My name is Alex, and I’m an Engineering Physics and Computing candidate at Queen's University. I’m currently going into my 4th year, but on internship at Blackline Safety in Calgary, Canada. 
+- 🍁 I’m from 🇨🇦
+- 🔭 I’m currently working on a battery life prediciton algorithm for our devices at Blackline
+- 🌱 I’m working on learning HTML, CSS and Javascript
+- 💬 I speak Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+- I like 🎹, ☕️,  🐍, 🌌, 🏒, ⛷️, 🏃🏻‍♂️, ⛳
+
+I🌯, 🏓, 💻, 🐍, 📊, 🏀, ☕️, 🍺, 🍷
+You can find me on [![LinkedIn][3.2]][3].![linkedin png]()
+
+
+[3.2]: https://user-images.githubusercontent.com/86262689/132900051-5454fe96-d053-472a-8ded-1fa73600024d.png
+
+[3]: https://www.linkedin.com/in/alexanderchase1/
 
 <!--
 **alexchase1/alexchase1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
